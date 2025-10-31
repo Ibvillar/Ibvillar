@@ -1,5 +1,5 @@
-## Hi there👋
-I'm Ignacio and i'm a software engineer and mathematician student from Madrid, Spain
+## Portfolio
+#### 🚧 In construction 🚧
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ignacio-bermejo-villar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibvillar2005@gmail.com) 
@@ -10,11 +10,5 @@ I'm Ignacio and i'm a software engineer and mathematician student from Madrid, S
 ![](https://github-readme-stats.vercel.app/api?username=ibvillar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ibvillar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibvillar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=ibvillar&icon=2&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
